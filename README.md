@@ -4,7 +4,7 @@
 
 - a collection of trys 📝, inspiration ⛩ and ideas 💡...
 
-Make sure to check out all of my <b>projects</b>. 
+Make sure to check out all of my <a href="https://github.com/stars/werthmannsupercode/lists/projects">projects</a>. 
 
 
 👩🏻‍💻 I am a Junior Webdeveloper and currently expanding my skills in<br>
