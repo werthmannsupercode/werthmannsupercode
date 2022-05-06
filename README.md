@@ -9,7 +9,7 @@ Make sure to check out all of my <a href="https://github.com/stars/werthmannsupe
 
 👩🏻‍💻 I am a Junior Webdeveloper and currently expanding my skills in<br>
 -HTML 🖊<br>
--CSS 🖌<br>
+-CSS/SASS 🖌<br>
 -JS 🪄<br>
 -git 🔮<br>
 -SCRUM 🧘🏻‍♀️<br>
