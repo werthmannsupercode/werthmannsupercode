@@ -11,6 +11,7 @@ Make sure to check out all of my <a href="https://github.com/stars/werthmannsupe
 -HTML 🖊<br>
 -CSS/SASS 🖌<br>
 -JS 🪄<br>
+-ReactJS 🚀<br>
 -git 🔮<br>
 -SCRUM 🧘🏻‍♀️<br>
 -...
