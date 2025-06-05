@@ -2,7 +2,7 @@
 
 Welcome on my site 
 
-- a collection of trys, inspiration and ideas ...
+a collection of trys, inspiration and ideas ...
 
 Make sure to check out all of my <a href="https://github.com/stars/werthmannsupercode/lists/projects">Projects</a>. 
 
